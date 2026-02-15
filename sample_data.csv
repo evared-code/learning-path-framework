@@ -1,0 +1,12 @@
+ParticipantID,Name,CurrentRole,TargetRole,Req_Current,Design_Current,Dev_Current,Test_Current,Deploy_Current,Maint_Current,PSP_Current,TSP_Current,Defect_Current,Metric_Current,Config_Current,Doc_Current,Req_Target,Design_Target,Dev_Target,Test_Target,Deploy_Target,Maint_Target,PSP_Target,TSP_Target,Defect_Target,Metric_Target,Config_Target,Doc_Target
+JJ,JJ,Project Coordinator,Senior Project Manager,1,1,1,1,0,0,0,1,1,0,1,1,2,2,2,2,2,2,2,2,2,2,2,2
+T,T,General Manager,Executive Manager,3,2,3,2,1,1,3,3,2,2,2,2,3,3,3,3,2,2,3,3,3,3,3,3
+PP,PP,AI/API Developer,Senior AI Developer,0,1,2,1,1,1,0,1,1,1,1,1,1,2,3,2,2,2,1,2,2,2,2,2
+A,A,Software Dev Manager,Engineering Manager,3,2,3,2,2,2,0,2,2,2,2,3,3,3,3,3,3,3,2,3,3,3,3,3
+B,B,Developer Intern,Junior Developer,1,0,1,1,0,0,0,0,0,0,0,1,2,1,2,2,1,1,1,1,1,1,1,2
+D,D,Trainee Front-end Dev,Front-end Developer,1,0,1,1,1,1,1,1,1,1,1,1,2,1,2,2,2,2,2,2,2,2,2,2
+N,N,Developer,Senior Developer,1,1,1,1,0,1,1,1,1,1,1,1,2,2,2,2,1,2,2,2,2,2,2,2
+JD,JD,Front-end Developer,Senior Front-end Dev,1,1,1,1,1,1,1,1,1,1,1,1,2,2,2,2,2,2,2,2,2,2,2,2
+L,L,Back-end Developer,Senior Back-end Dev,1,1,2,1,1,2,1,1,2,1,1,1,2,2,3,2,2,3,2,2,3,2,2,2
+P,P,Software Developer,Tech Lead,1,1,1,1,1,1,1,1,1,1,1,1,2,2,2,2,2,2,2,2,2,2,2,2
+DC,DC,Mobile Developer,Senior Mobile Dev,1,0,1,1,0,0,1,0,0,0,0,1,2,1,2,2,1,1,2,1,1,1,1,2
