@@ -1,7 +1,11 @@
+# FastAPI Backend with Poe/z.ai Integration
+
 fastapi==0.109.0
 uvicorn[standard]==0.27.0
 pydantic==2.5.3
-anthropic==0.39.0
 numpy==1.26.0
 python-dotenv==1.0.0
 requests==2.31.0
+
+# No LLM-specific libraries needed!
+# Poe API uses simple HTTP requests
