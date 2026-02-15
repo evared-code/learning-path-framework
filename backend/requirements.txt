@@ -1,11 +1,9 @@
-# FastAPI Backend with Z.AI Integration
-# Fixed versions for Python 3.9+
+# FastAPI Backend - Minimal Working Configuration
+# Tested on Render.com Python 3.9+
 
-fastapi==0.115.0
-uvicorn[standard]==0.30.0
-pydantic==2.9.0
-numpy==1.26.4
-python-dotenv==1.0.1
-
-# Z.AI uses OpenAI-compatible API
-openai==1.51.0
+fastapi==0.104.1
+uvicorn==0.24.0
+pydantic==2.5.0
+numpy==1.24.3
+python-dotenv==1.0.0
+openai==1.3.0
